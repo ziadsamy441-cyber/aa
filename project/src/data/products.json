@@ -1,0 +1,762 @@
+[
+  {
+    "id": "p01",
+    "slug": "hand-thrown-sandstone-vase",
+    "name": "Hand-Thrown Sandstone Vase",
+    "price": 128,
+    "currency": "USD",
+    "category": "ceramics",
+    "material": "clay",
+    "description": "A hand-thrown stoneware vessel with a matte sandstone glaze, inspired by the curve of a river stone worn smooth by water.",
+    "story": "This vase began as a lump of grey stoneware clay dug from a deposit in the Catskills. I threw it on the wheel in one pass, then trimmed the foot after a slow drying. The sandstone glaze is my own recipe — a blend of local feldspar, wood ash, and iron oxide that creates a warm, matte surface with subtle speckling where the iron pools. It fires to cone 6 in the wood kiln, and no two ever come out the same.",
+    "images": [
+      "https://images.pexels.com/photos/29286721/pexels-photo-29286721.jpeg?auto=compress&cs=tinysrgb&h=900",
+      "https://images.pexels.com/photos/26614924/pexels-photo-26614924.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.9,
+    "reviewCount": 27,
+    "reviews": [
+      { "author": "Margaret O.", "rating": 5, "comment": "Even more beautiful in person. The glaze has a quiet depth that photos can't capture.", "date": "2026-07-14" },
+      { "author": "Daniel K.", "rating": 5, "comment": "I use it with dried branches and it anchors the whole room. Worth every penny.", "date": "2026-06-02" },
+      { "author": "Priya S.", "rating": 4, "comment": "Gorgeous piece. Slightly smaller than I imagined but perfectly proportioned.", "date": "2026-05-18" }
+    ],
+    "stock": 4,
+    "badges": ["eco", "local", "featured", "bestseller"],
+    "featured": true,
+    "trending": false,
+    "bestSeller": true,
+    "tags": ["vase", "stoneware", "wheel-thrown", "matte glaze", "minimalist"],
+    "relatedProductIds": ["p02", "p04", "p23"]
+  },
+  {
+    "id": "p02",
+    "slug": "riverbowl-stoneware-vessel",
+    "name": "Riverbowl Stoneware Vessel",
+    "price": 96,
+    "currency": "USD",
+    "category": "ceramics",
+    "material": "ceramic",
+    "description": "A wide-bellied vessel with an oatmeal glaze that breaks to warm iron at the rim, echoing the bowl of a river stone.",
+    "story": "I wanted to make something that felt like it had been tumbled in a river for a hundred years. The form is wide and low, with a belly that curves in gently at the rim. The oatmeal glaze is layered over a thin wash of iron oxide, so where the glaze thins at the edges it breaks to a warm rust tone — the same way a stone's colour deepens where water has worn it smoothest.",
+    "images": [
+      "https://images.pexels.com/photos/18449692/pexels-photo-18449692.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.8,
+    "reviewCount": 19,
+    "reviews": [
+      { "author": "Helen R.", "rating": 5, "comment": "The rim colour break is stunning. It sits on my coffee table like a sculpture.", "date": "2026-07-01" },
+      { "author": "Tom B.", "rating": 4, "comment": "Beautifully made. The glaze variation makes it feel truly one-of-a-kind.", "date": "2026-06-20" }
+    ],
+    "stock": 6,
+    "badges": ["eco", "featured"],
+    "featured": true,
+    "trending": false,
+    "bestSeller": false,
+    "tags": ["vessel", "stoneware", "oatmeal glaze", "organic"],
+    "relatedProductIds": ["p01", "p04", "p06"]
+  },
+  {
+    "id": "p03",
+    "slug": "terra-pinch-pot-set",
+    "name": "Terra Pinch Pot Set",
+    "price": 64,
+    "currency": "USD",
+    "category": "ceramics",
+    "material": "clay",
+    "description": "A nesting set of three pinch pots in graduated sizes, each shaped entirely by hand without a wheel.",
+    "story": "Pinch pots are the most direct form of hand-building — just clay and fingers, no tools. I make these in sets of three from earthenware, pressing each one out from a single ball of clay. The mineral pigment glaze settles into the fingerprints and tool marks, making each pot a record of the hands that made it. They nest inside each other, Russian-doll style, and are perfect for salt, rings, or small treasures.",
+    "images": [
+      "https://images.pexels.com/photos/15122651/pexels-photo-15122651.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.7,
+    "reviewCount": 14,
+    "reviews": [
+      { "author": "Alicia M.", "rating": 5, "comment": "I love that you can see the fingerprints. They feel so personal.", "date": "2026-07-22" },
+      { "author": "James P.", "rating": 4, "comment": "Smaller than expected but beautifully crafted. A lovely gift set.", "date": "2026-06-10" }
+    ],
+    "stock": 12,
+    "badges": ["local", "trending"],
+    "featured": false,
+    "trending": true,
+    "bestSeller": false,
+    "tags": ["pinch pot", "earthenware", "hand-built", "set", "tableware"],
+    "relatedProductIds": ["p01", "p05", "p24"]
+  },
+  {
+    "id": "p04",
+    "slug": "dune-stoneware-bowl",
+    "name": "Dune Stoneware Bowl",
+    "price": 86,
+    "currency": "USD",
+    "category": "ceramics",
+    "material": "ceramic",
+    "description": "A generous serving bowl with a sand-toned reactive glaze that pools softly at the rim like wind-blown dunes.",
+    "story": "The reactive glaze on this bowl is alive — it moves during firing, pooling in the curves and thinning at the edges. I mix it from three minerals that respond differently to heat, so each bowl has its own pattern of drift and pooling. No two are alike, and the variation is the point. This is a bowl meant for bread on the table, fruit on the counter, or hands full of something good.",
+    "images": [
+      "https://images.pexels.com/photos/26614924/pexels-photo-26614924.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.8,
+    "reviewCount": 19,
+    "reviews": [
+      { "author": "Rachel W.", "rating": 5, "comment": "The glaze pooling is mesmerising. It's functional art.", "date": "2026-07-10" },
+      { "author": "Kai T.", "rating": 4, "comment": "Great size for serving. The colour is warmer than in the photos.", "date": "2026-05-28" }
+    ],
+    "stock": 7,
+    "badges": ["eco"],
+    "featured": false,
+    "trending": false,
+    "bestSeller": false,
+    "tags": ["bowl", "stoneware", "reactive glaze", "serving", "sand-toned"],
+    "relatedProductIds": ["p02", "p01", "p24"]
+  },
+  {
+    "id": "p05",
+    "slug": "oat-cream-pitcher",
+    "name": "Oat Cream Pitcher",
+    "price": 72,
+    "currency": "USD",
+    "category": "ceramics",
+    "material": "ceramic",
+    "description": "A slender porcelain pitcher with an organic pour spout, finished in a warm cream glaze.",
+    "story": "I throw this pitcher from porcelain, which is less forgiving than stoneware but rewards you with a translucence and smoothness that nothing else matches. The spout is pulled by hand and shaped to pour cleanly without dripping. The cream glaze is soft and warm — not white, not yellow, but the colour of oat milk. It's the pitcher I keep on my own breakfast table.",
+    "images": [
+      "https://images.pexels.com/photos/16124848/pexels-photo-16124848.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.6,
+    "reviewCount": 8,
+    "reviews": [
+      { "author": "Nora F.", "rating": 5, "comment": "Pours beautifully. The spout is perfectly shaped.", "date": "2026-06-15" },
+      { "author": "Greg L.", "rating": 4, "comment": "Lovely cream colour. Smaller than I expected but ideal for breakfast.", "date": "2026-05-30" }
+    ],
+    "stock": 0,
+    "badges": ["local"],
+    "featured": false,
+    "trending": false,
+    "bestSeller": false,
+    "tags": ["pitcher", "porcelain", "cream glaze", "breakfast", "pour"],
+    "relatedProductIds": ["p03", "p04", "p24"]
+  },
+  {
+    "id": "p06",
+    "slug": "wild-fig-ceramic-candle-cup",
+    "name": "Wild Fig Ceramic Candle Cup",
+    "price": 54,
+    "currency": "USD",
+    "category": "ceramics",
+    "material": "ceramic",
+    "description": "A wheel-thrown ceramic cup holding a wild fig-scented soy wax candle — reusable as a teacup once the wax is gone.",
+    "story": "I started making these one winter when I had leftover clay cups that didn't quite pass my quality check for tableware. Instead of recycling the clay, I filled them with soy wax scented with wild fig — a smell that reminds me of late summer in the orchard. Once the candle burns down, you can wash out the wax and drink tea from the cup. Two lives in one object.",
+    "images": [
+      "https://images.pexels.com/photos/15122651/pexels-photo-15122651.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.7,
+    "reviewCount": 15,
+    "reviews": [
+      { "author": "Sophie D.", "rating": 5, "comment": "The wild fig scent is incredible, and I love that the cup is reusable.", "date": "2026-07-05" },
+      { "author": "Ben H.", "rating": 4, "comment": "Great concept. The scent fills a whole room. Wish it lasted longer.", "date": "2026-06-12" }
+    ],
+    "stock": 9,
+    "badges": ["eco", "trending"],
+    "featured": false,
+    "trending": true,
+    "bestSeller": false,
+    "tags": ["candle", "soy wax", "wild fig", "reusable", "ceramic cup"],
+    "relatedProductIds": ["p17", "p16", "p01"]
+  },
+  {
+    "id": "p07",
+    "slug": "olive-wood-serving-board",
+    "name": "Olive Wood Serving Board",
+    "price": 95,
+    "currency": "USD",
+    "category": "wood",
+    "material": "wood",
+    "description": "A live-edge olive wood board with a flowing grain, hand-sanded to a satin finish and treated with food-safe oil.",
+    "story": "The olive wood for this board comes from a grove in California where the trees are pruned for health, not cut down. I work with the natural edge of each piece, keeping the bark line and the tree's original shape. The grain in olive wood is dense and flowing — almost psychedelic — and I sand it through five grits before oiling it with a food-safe mineral blend. It ages beautifully, darkening and deepening over years of use.",
+    "images": [
+      "https://images.pexels.com/photos/10707389/pexels-photo-10707389.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 5.0,
+    "reviewCount": 31,
+    "reviews": [
+      { "author": "Olivia C.", "rating": 5, "comment": "The grain is absolutely stunning. I display it on the counter when not in use.", "date": "2026-07-18" },
+      { "author": "Marcus J.", "rating": 5, "comment": "Best cutting board I've ever owned. The live edge makes it feel like a piece of art.", "date": "2026-06-25" },
+      { "author": "Emma W.", "rating": 5, "comment": "Gave this as a wedding gift and it was the hit of the party.", "date": "2026-05-12" }
+    ],
+    "stock": 5,
+    "badges": ["eco", "featured", "bestseller"],
+    "featured": true,
+    "trending": false,
+    "bestSeller": true,
+    "tags": ["serving board", "olive wood", "live edge", "food-safe", "charcuterie"],
+    "relatedProductIds": ["p09", "p10", "p08"]
+  },
+  {
+    "id": "p08",
+    "slug": "driftwood-tea-light-holder",
+    "name": "Driftwood Tea Light Holder",
+    "price": 48,
+    "currency": "USD",
+    "category": "wood",
+    "material": "wood",
+    "description": "A reclaimed driftwood base cradling a brass tea light cup, weathered by tide and time.",
+    "story": "I walk the shore of the Hudson after winter storms, collecting pieces of driftwood that the ice has broken loose. Each piece has been in the water for years — the bark is gone, the grain is raised, and the surface is soft to the touch. I embed a brass tea light cup into a carved recess, so the flame sits inside the wood like a small hearth. No two holders are the same shape, because no two pieces of driftwood are.",
+    "images": [
+      "https://images.pexels.com/photos/13350658/pexels-photo-13350658.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.9,
+    "reviewCount": 22,
+    "reviews": [
+      { "author": "Lisa M.", "rating": 5, "comment": "It glows beautifully at night. The driftwood has such a soft, weathered feel.", "date": "2026-07-08" },
+      { "author": "Chris P.", "rating": 5, "comment": "Bought two and they're completely different shapes. Love the uniqueness.", "date": "2026-06-18" }
+    ],
+    "stock": 8,
+    "badges": ["eco", "local", "trending"],
+    "featured": false,
+    "trending": true,
+    "bestSeller": false,
+    "tags": ["tea light", "driftwood", "reclaimed", "brass", "coastal"],
+    "relatedProductIds": ["p07", "p09", "p15"]
+  },
+  {
+    "id": "p09",
+    "slug": "acorn-burl-bowl",
+    "name": "Acorn Burl Bowl",
+    "price": 140,
+    "currency": "USD",
+    "category": "wood",
+    "material": "wood",
+    "description": "A turned walnut burl bowl that reveals the grain's natural figure, finished with a hard carnauba wax.",
+    "story": "Burl wood is a growth on a tree where the grain has gone wild — twisted, knotted, and full of eyes. Most mills discard it, but I seek it out. This bowl is turned from a walnut burl on the lathe, then hand-scraped and finished with carnauba wax, a hard plant-based wax that lets you feel the grain without it being rough. The figure in the wood is like a landscape — every angle shows something new.",
+    "images": [
+      "https://images.pexels.com/photos/13350699/pexels-photo-13350699.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.8,
+    "reviewCount": 6,
+    "reviews": [
+      { "author": "Robert H.", "rating": 5, "comment": "The burl figure is jaw-dropping. It's a centrepiece in our entryway.", "date": "2026-06-28" },
+      { "author": "Diane S.", "rating": 4, "comment": "Incredible craftsmanship. The wax finish is so smooth.", "date": "2026-05-15" }
+    ],
+    "stock": 3,
+    "badges": ["local"],
+    "featured": false,
+    "trending": false,
+    "bestSeller": false,
+    "tags": ["bowl", "walnut", "burl", "turned", "decorative"],
+    "relatedProductIds": ["p07", "p10", "p08"]
+  },
+  {
+    "id": "p10",
+    "slug": "carved-walnut-spoon-set",
+    "name": "Carved Walnut Spoon Set",
+    "price": 38,
+    "currency": "USD",
+    "category": "wood",
+    "material": "wood",
+    "description": "A set of two hand-carved cooking spoons in walnut, shaped for everyday stirring, scooping, and tasting.",
+    "story": "These spoons are carved by knife, not machine. I start with a walnut blank and use a hook knife and a straight carving knife to shape the bowl and handle. The handle has a subtle curve that sits comfortably in the hand, and the bowl is deep enough for stirring and shallow enough for tasting. I finish them with food-safe mineral oil. They'll darken with use and last a lifetime if you oil them now and then.",
+    "images": [
+      "https://images.pexels.com/photos/28584715/pexels-photo-28584715.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.9,
+    "reviewCount": 17,
+    "reviews": [
+      { "author": "Anna K.", "rating": 5, "comment": "These are the best cooking spoons I've ever used. The handle shape is perfect.", "date": "2026-07-12" },
+      { "author": "Steve D.", "rating": 5, "comment": "Beautifully carved. They feel alive in the hand.", "date": "2026-06-05" }
+    ],
+    "stock": 15,
+    "badges": ["eco"],
+    "featured": false,
+    "trending": false,
+    "bestSeller": false,
+    "tags": ["spoons", "walnut", "hand-carved", "cooking", "kitchen"],
+    "relatedProductIds": ["p07", "p09", "p08"]
+  },
+  {
+    "id": "p11",
+    "slug": "woven-linen-throw-clay",
+    "name": "Woven Linen Throw — Clay",
+    "price": 120,
+    "currency": "USD",
+    "category": "textile",
+    "material": "fabric",
+    "description": "A heavyweight linen throw dyed with clay and iron oxide, soft enough for a summer sofa and warm enough for a winter chair.",
+    "story": "The linen for this throw is woven from European flax, then dyed in my studio with clay dug from the riverbank behind the barn, mordanted with iron oxide. The result is a colour that shifts between warm taupe and soft terracotta, depending on the light. After dyeing, I wash and tumble the fabric to soften it, then hem it by hand with a simple running stitch. It gets softer with every wash.",
+    "images": [
+      "https://images.pexels.com/photos/6123227/pexels-photo-6123227.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.9,
+    "reviewCount": 18,
+    "reviews": [
+      { "author": "Claire B.", "rating": 5, "comment": "The clay colour is even more beautiful in person. So soft and warm.", "date": "2026-07-20" },
+      { "author": "Mike R.", "rating": 5, "comment": "This is the throw everyone reaches for on the couch. It's become essential.", "date": "2026-06-14" }
+    ],
+    "stock": 6,
+    "badges": ["eco", "local", "featured", "bestseller"],
+    "featured": true,
+    "trending": false,
+    "bestSeller": true,
+    "tags": ["throw", "linen", "natural dye", "clay", "blanket"],
+    "relatedProductIds": ["p12", "p13", "p14"]
+  },
+  {
+    "id": "p12",
+    "slug": "mended-indigo-cushion",
+    "name": "Mended Indigo Cushion",
+    "price": 78,
+    "currency": "USD",
+    "category": "textile",
+    "material": "fabric",
+    "description": "A sashiko-mended cushion cover in indigo-dyed cotton, with visible mending that turns repair into decoration.",
+    "story": "Sashiko is a Japanese mending technique where patches are stitched with visible running stitches, turning damage into a feature. I dye the cotton in indigo, then intentionally distress and mend sections with cream sashiko thread. The mend is not hidden — it's celebrated. The cushion cover has a hidden zipper and fits a standard 45cm insert. It's a philosophy in fabric: nothing is broken, only waiting to be made more beautiful.",
+    "images": [
+      "https://images.pexels.com/photos/8762867/pexels-photo-8762867.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.7,
+    "reviewCount": 9,
+    "reviews": [
+      { "author": "Jen L.", "rating": 5, "comment": "The sashiko stitching is so thoughtful. It's like owning a piece of wabi-sabi philosophy.", "date": "2026-07-03" },
+      { "author": "David W.", "rating": 4, "comment": "Beautiful and unique. The indigo is deeper than shown.", "date": "2026-05-22" }
+    ],
+    "stock": 7,
+    "badges": ["eco", "local", "trending"],
+    "featured": false,
+    "trending": true,
+    "bestSeller": false,
+    "tags": ["cushion", "indigo", "sashiko", "mended", "wabi-sabi"],
+    "relatedProductIds": ["p11", "p13", "p14"]
+  },
+  {
+    "id": "p13",
+    "slug": "hand-stitched-floor-cushion",
+    "name": "Hand-Stitched Floor Cushion",
+    "price": 110,
+    "currency": "USD",
+    "category": "textile",
+    "material": "fabric",
+    "description": "A round floor cushion woven from undyed cotton and stuffed with kapok fibre, firm enough for sitting and soft enough for leaning.",
+    "story": "I wove the cover for this cushion on my small floor loom using undyed cotton yarn, then hand-stitched the seams and stuffed it with kapok — a plant fibre that's buoyant and naturally water-resistant. The cushion is round, about 50cm across, and firm enough to sit on at a low table or lean against a wall. The cotton will soften and relax over time, developing the rumpled comfort of a well-used thing.",
+    "images": [
+      "https://images.pexels.com/photos/6114331/pexels-photo-6114331.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "reviews": [
+      { "author": "Yuki N.", "rating": 5, "comment": "Perfect for our low tea table. Firm and supportive but not stiff.", "date": "2026-06-30" },
+      { "author": "Sara M.", "rating": 4, "comment": "Great floor cushion. Wish it came in more colours.", "date": "2026-05-20" }
+    ],
+    "stock": 4,
+    "badges": ["eco"],
+    "featured": false,
+    "trending": false,
+    "bestSeller": false,
+    "tags": ["floor cushion", "cotton", "kapok", "woven", "low seating"],
+    "relatedProductIds": ["p11", "p12", "p14"]
+  },
+  {
+    "id": "p14",
+    "slug": "natural-cotton-table-runner",
+    "name": "Natural Cotton Table Runner",
+    "price": 52,
+    "currency": "USD",
+    "category": "textile",
+    "material": "fabric",
+    "description": "A hand-woven table runner in natural cotton with a loose, organic weave and fringed ends.",
+    "story": "This runner is woven on my loom with a loose sett, meaning the warp threads are spaced further apart than usual. This gives the fabric a slightly open, organic quality — light comes through it, and you can see the structure of the weave. The ends are left with long fringes that I twist by hand. It's the kind of table cloth that makes a simple loaf of bread and a bowl of olives feel like a meal.",
+    "images": [
+      "https://images.pexels.com/photos/7218932/pexels-photo-7218932.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.6,
+    "reviewCount": 7,
+    "reviews": [
+      { "author": "Grace H.", "rating": 5, "comment": "The loose weave is so characterful. It elevates every table setting.", "date": "2026-07-15" },
+      { "author": "Phil K.", "rating": 4, "comment": "Beautiful runner. The fringe is a lovely touch.", "date": "2026-06-08" }
+    ],
+    "stock": 10,
+    "badges": ["eco"],
+    "featured": false,
+    "trending": false,
+    "bestSeller": false,
+    "tags": ["table runner", "cotton", "hand-woven", "fringed", "dining"],
+    "relatedProductIds": ["p11", "p12", "p13"]
+  },
+  {
+    "id": "p15",
+    "slug": "beeswax-pillar-candle",
+    "name": "Beeswax Pillar Candle",
+    "price": 36,
+    "currency": "USD",
+    "category": "candles",
+    "material": "wax",
+    "description": "A solid beeswax pillar with a natural honey scent and a warm golden glow that purifies the air as it burns.",
+    "story": "The beeswax for these pillars comes from a beekeeper in the next valley who keeps his hives on wildflower meadows. Beeswax burns cleaner than any other wax — it actually releases negative ions that pull dust and pollen out of the air. The scent is faintly honeyed, completely natural, with no added fragrance. I hand-pour each pillar around a cotton wick, then let it cure for two weeks before selling. The flame is warm and golden, like sunlight trapped in wax.",
+    "images": [
+      "https://images.pexels.com/photos/34806970/pexels-photo-34806970.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.8,
+    "reviewCount": 24,
+    "reviews": [
+      { "author": "Mary E.", "rating": 5, "comment": "The honey scent is so natural and subtle. Burns beautifully and evenly.", "date": "2026-07-19" },
+      { "author": "Joe F.", "rating": 5, "comment": "Best candles I've ever bought. The warm glow is unbeatable.", "date": "2026-06-22" },
+      { "author": "Ann R.", "rating": 4, "comment": "Lovely candle. Wish it came in a taller size.", "date": "2026-05-10" }
+    ],
+    "stock": 18,
+    "badges": ["eco", "local", "bestseller"],
+    "featured": false,
+    "trending": false,
+    "bestSeller": true,
+    "tags": ["candle", "beeswax", "pillar", "natural", "honey scent"],
+    "relatedProductIds": ["p16", "p17", "p18"]
+  },
+  {
+    "id": "p16",
+    "slug": "soy-tumbler-cedar-sage",
+    "name": "Soy Tumbler — Cedar & Sage",
+    "price": 32,
+    "currency": "USD",
+    "category": "candles",
+    "material": "wax",
+    "description": "A soy-wax candle in a reusable ceramic tumbler, scented with cedarwood and sage for a grounding, woodsy aroma.",
+    "story": "I throw the tumbler for this candle on the wheel and fire it with a matte glaze, then fill it with soy wax scented with cedarwood and sage essential oils. The scent is grounding — like walking through a dry forest after rain. When the candle is finished, the tumbler washes out with hot water and becomes a drinking cup. I use mine for morning tea.",
+    "images": [
+      "https://images.pexels.com/photos/38657788/pexels-photo-38657788.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.6,
+    "reviewCount": 16,
+    "reviews": [
+      { "author": "Tina Y.", "rating": 5, "comment": "The cedar and sage scent is so grounding. And I love the reusable cup!", "date": "2026-07-07" },
+      { "author": "Mark D.", "rating": 4, "comment": "Great scent throw. The tumbler is a nice touch.", "date": "2026-06-19" }
+    ],
+    "stock": 14,
+    "badges": ["eco", "trending"],
+    "featured": false,
+    "trending": true,
+    "bestSeller": false,
+    "tags": ["candle", "soy wax", "cedar", "sage", "tumbler", "reusable"],
+    "relatedProductIds": ["p15", "p17", "p18"]
+  },
+  {
+    "id": "p17",
+    "slug": "wild-fig-ceramic-candle",
+    "name": "Wild Fig Ceramic Candle",
+    "price": 44,
+    "currency": "USD",
+    "category": "candles",
+    "material": "wax",
+    "description": "A hand-poured soy wax candle in a wheel-thrown ceramic vessel, scented with ripe wild fig and a hint of cedar.",
+    "story": "This is the larger sibling of the candle cup — a full-sized candle in a wheel-thrown ceramic vessel. The fig scent is sweet and dark, with cedar as a base note that grounds it. I pour the wax at a low temperature to prevent frosting, then let it cure for a week. The vessel is glazed in a soft oatmeal and meant to live on as a small bowl or planter long after the wax is gone.",
+    "images": [
+      "https://images.pexels.com/photos/38657796/pexels-photo-38657796.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.8,
+    "reviewCount": 12,
+    "reviews": [
+      { "author": "Cara N.", "rating": 5, "comment": "The fig scent is luxurious. The ceramic vessel is beautiful on its own.", "date": "2026-07-11" },
+      { "author": "Ryan B.", "rating": 4, "comment": "Lovely candle with a great scent. Lasted about 40 hours.", "date": "2026-06-01" }
+    ],
+    "stock": 11,
+    "badges": ["eco", "featured"],
+    "featured": true,
+    "trending": false,
+    "bestSeller": false,
+    "tags": ["candle", "soy wax", "wild fig", "cedar", "ceramic vessel"],
+    "relatedProductIds": ["p15", "p16", "p06"]
+  },
+  {
+    "id": "p18",
+    "slug": "honeycomb-taper-pair",
+    "name": "Honeycomb Taper Pair",
+    "price": 28,
+    "currency": "USD",
+    "category": "candles",
+    "material": "wax",
+    "description": "A pair of hand-dipped beeswax tapers with a honeycomb texture and a drip-resistant finish.",
+    "story": "I dip these tapers by hand, repeatedly immersing the wick in molten beeswax and letting each layer cool before the next dip. The process builds a subtle honeycomb texture on the surface. The wax is pure and golden, and the tapers burn steady and dripless if kept away from drafts. They're the candles I put on the dinner table when there's something to celebrate.",
+    "images": [
+      "https://images.pexels.com/photos/38657795/pexels-photo-38657795.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.7,
+    "reviewCount": 10,
+    "reviews": [
+      { "author": "Eve T.", "rating": 5, "comment": "Beautiful tapers. They burn so slowly and evenly.", "date": "2026-07-06" },
+      { "author": "Paul R.", "rating": 4, "comment": "Lovely honey colour. Perfect for dinner parties.", "date": "2026-05-25" }
+    ],
+    "stock": 20,
+    "badges": ["eco", "local"],
+    "featured": false,
+    "trending": false,
+    "bestSeller": false,
+    "tags": ["taper", "beeswax", "pair", "hand-dipped", "dinner"],
+    "relatedProductIds": ["p15", "p16", "p17"]
+  },
+  {
+    "id": "p19",
+    "slug": "rattan-wall-mirror",
+    "name": "Rattan Wall Mirror",
+    "price": 165,
+    "currency": "USD",
+    "category": "home-decor",
+    "material": "wood",
+    "description": "A round mirror framed in hand-woven rattan, bringing organic warmth to an entryway, bath, or reading nook.",
+    "story": "The rattan frame for this mirror is woven by hand around a round mirror blank, using a technique I learned from a basket-maker in the Berkshires. The rattan is soaked in water until pliable, then wrapped and coiled around the frame in a continuous spiral. It dries tight and holds its shape for decades. The mirror has a clean, flat glass with no bevel, so the reflection is true and the frame does the talking.",
+    "images": [
+      "https://images.pexels.com/photos/37035527/pexels-photo-37035527.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.9,
+    "reviewCount": 12,
+    "reviews": [
+      { "author": "Beth A.", "rating": 5, "comment": "It's the first thing guests comment on. The weaving is exquisite.", "date": "2026-07-16" },
+      { "author": "Nick J.", "rating": 5, "comment": "Brings so much warmth to our entryway. Perfectly crafted.", "date": "2026-06-11" }
+    ],
+    "stock": 4,
+    "badges": ["eco", "featured"],
+    "featured": true,
+    "trending": false,
+    "bestSeller": false,
+    "tags": ["mirror", "rattan", "woven", "round", "entryway"],
+    "relatedProductIds": ["p20", "p25", "p26"]
+  },
+  {
+    "id": "p20",
+    "slug": "hand-hammered-brass-catchall",
+    "name": "Hand-Hammered Brass Catchall",
+    "price": 58,
+    "currency": "USD",
+    "category": "home-decor",
+    "material": "metal",
+    "description": "A hand-hammered brass tray for keys, rings, or a single collected stone — it patinas beautifully with age.",
+    "story": "I cut the brass sheet to shape, then hammer the surface by hand with a ball-peen hammer, working from the centre outward in concentric rings. Each hammer mark catches light differently, so the surface has a textured shimmer that a smooth tray can't match. Over time, brass develops a patina — it darkens and warms, recording the hands that have touched it. You can polish it back to bright, or let it age. I prefer to let it age.",
+    "images": [
+      "https://images.pexels.com/photos/7643946/pexels-photo-7643946.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.7,
+    "reviewCount": 7,
+    "reviews": [
+      { "author": "Kate L.", "rating": 5, "comment": "The hammering is beautiful in the light. It's the perfect catchall by the door.", "date": "2026-07-02" },
+      { "author": "Tim W.", "rating": 4, "comment": "Well-made and the perfect size. Developing a nice patina already.", "date": "2026-06-07" }
+    ],
+    "stock": 9,
+    "badges": ["local", "bestseller"],
+    "featured": false,
+    "trending": false,
+    "bestSeller": true,
+    "tags": ["tray", "brass", "hammered", "catchall", "patina"],
+    "relatedProductIds": ["p19", "p21", "p25"]
+  },
+  {
+    "id": "p21",
+    "slug": "brass-key-ring",
+    "name": "Brass Key Ring",
+    "price": 24,
+    "currency": "USD",
+    "category": "accessories",
+    "material": "metal",
+    "description": "A simple hand-forged brass key ring with a hand-stitched leather tab, made to last a lifetime.",
+    "story": "Sometimes the smallest objects are the most used. This key ring is forged from a single piece of brass wire, shaped into a spring ring that opens and closes with a twist. The leather tab is hand-stitched with waxed linen thread and ages beautifully, softening and darkening where your fingers hold it. It's the kind of thing you reach for every day without thinking, and that quiet reliability is the whole point.",
+    "images": [
+      "https://images.pexels.com/photos/32221410/pexels-photo-32221410.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.6,
+    "reviewCount": 8,
+    "reviews": [
+      { "author": "Sam P.", "rating": 5, "comment": "Simple, sturdy, and beautiful. The leather tab feels great.", "date": "2026-07-09" },
+      { "author": "Lily C.", "rating": 4, "comment": "Nice key ring. The brass has a good weight to it.", "date": "2026-06-03" }
+    ],
+    "stock": 25,
+    "badges": ["local", "trending"],
+    "featured": false,
+    "trending": true,
+    "bestSeller": false,
+    "tags": ["key ring", "brass", "leather", "everyday carry", "hand-forged"],
+    "relatedProductIds": ["p20", "p22", "p27"]
+  },
+  {
+    "id": "p22",
+    "slug": "woven-raffia-basket",
+    "name": "Woven Raffia Basket",
+    "price": 68,
+    "currency": "USD",
+    "category": "accessories",
+    "material": "fabric",
+    "description": "A hand-coiled raffia basket in natural and dyed tones, perfect for fruit, keys, or a potted plant.",
+    "story": "Raffia is a palm fibre that's strong, pliable, and beautiful to work with. I coil it by hand, stitching each row to the last with a large needle, building the basket from the base up. Some strands are dyed with turmeric for a warm gold, others with madder root for a dusty rose, and the rest are left natural. The pattern emerges as I weave, not planned but felt. The basket is stiff enough to hold its shape and soft enough to flex if you need it to.",
+    "images": [
+      "https://images.pexels.com/photos/30787838/pexels-photo-30787838.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.8,
+    "reviewCount": 10,
+    "reviews": [
+      { "author": "Dana K.", "rating": 5, "comment": "The colours are gorgeous and the weaving is so precise. I use it for fruit.", "date": "2026-07-14" },
+      { "author": "Owen M.", "rating": 4, "comment": "Beautiful basket. Holds a 6-inch plant perfectly.", "date": "2026-06-16" }
+    ],
+    "stock": 6,
+    "badges": ["eco"],
+    "featured": false,
+    "trending": false,
+    "bestSeller": false,
+    "tags": ["basket", "raffia", "hand-woven", "natural dye", "storage"],
+    "relatedProductIds": ["p21", "p20", "p13"]
+  },
+  {
+    "id": "p23",
+    "slug": "speckled-clay-planter",
+    "name": "Speckled Clay Planter",
+    "price": 58,
+    "currency": "USD",
+    "category": "ceramics",
+    "material": "clay",
+    "description": "A hand-thrown planter with a speckled glaze and a drainage hole, sized for a small fern or herb.",
+    "story": "Every plant deserves a good home. This planter is thrown with a slightly wider base for stability, and the speckled glaze comes from granular iron oxide sprinkled into the glaze batch — the iron blooms into dark specks during firing, like a night sky. There's a drainage hole in the bottom and a matching saucer to catch the runoff. I keep three of these on my kitchen windowsill with basil, rosemary, and thyme.",
+    "images": [
+      "https://images.pexels.com/photos/26614924/pexels-photo-26614924.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.7,
+    "reviewCount": 13,
+    "reviews": [
+      { "author": "Iris W.", "rating": 5, "comment": "The speckle glaze is gorgeous. Perfect size for my windowsill herbs.", "date": "2026-07-18" },
+      { "author": "Carl D.", "rating": 4, "comment": "Great planter. The drainage hole is a smart detail.", "date": "2026-06-09" }
+    ],
+    "stock": 8,
+    "badges": ["local", "trending"],
+    "featured": false,
+    "trending": true,
+    "bestSeller": false,
+    "tags": ["planter", "clay", "speckled glaze", "drainage", "windowsill"],
+    "relatedProductIds": ["p01", "p05", "p26"]
+  },
+  {
+    "id": "p24",
+    "slug": "ash-glaze-noodle-bowl-set",
+    "name": "Ash Glaze Noodle Bowl Set",
+    "price": 82,
+    "currency": "USD",
+    "category": "ceramics",
+    "material": "ceramic",
+    "description": "A set of two deep noodle bowls with a wood-ash glaze, chopstick rest, and a textured exterior for a steady grip.",
+    "story": "These bowls are made for ramen, pho, or any meal that needs depth. I throw them with high walls and a foot ring for easy holding, then apply a wood-ash glaze that I make from ash collected in my kiln firebox. The ash glaze is unpredictable — it runs, pools, and sometimes crystals, creating a surface that feels geological. The exterior is left unglazed and textured for grip. Each set comes with two bowls and two small chopstick rests.",
+    "images": [
+      "https://images.pexels.com/photos/15122651/pexels-photo-15122651.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.9,
+    "reviewCount": 15,
+    "reviews": [
+      { "author": "Kevin L.", "rating": 5, "comment": "The ash glaze is stunning. These have become our everyday bowls.", "date": "2026-07-21" },
+      { "author": "Mia F.", "rating": 5, "comment": "Perfect for ramen night. The texture on the outside makes them easy to hold.", "date": "2026-06-17" }
+    ],
+    "stock": 5,
+    "badges": ["eco", "bestseller"],
+    "featured": false,
+    "trending": false,
+    "bestSeller": true,
+    "tags": ["bowl", "noodle bowl", "ash glaze", "set", "tableware"],
+    "relatedProductIds": ["p04", "p03", "p10"]
+  },
+  {
+    "id": "p25",
+    "slug": "reclaimed-wood-wall-shelf",
+    "name": "Reclaimed Wood Wall Shelf",
+    "price": 115,
+    "currency": "USD",
+    "category": "home-decor",
+    "material": "wood",
+    "description": "A floating wall shelf made from reclaimed barn oak with a hand-rubbed oil finish and hidden mounting hardware.",
+    "story": "The oak for this shelf came from a barn built in the 1880s that was taken down in Vermont. I mill the boards flat, keeping the original nail holes and saw marks, then sand and oil the surface until it's smooth to the touch but still shows its history. The mounting bracket is embedded in the back, so the shelf appears to float with no visible hardware. It holds about 10kg and is deep enough for books, ceramics, or a row of small plants.",
+    "images": [
+      "https://images.pexels.com/photos/10707389/pexels-photo-10707389.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.8,
+    "reviewCount": 9,
+    "reviews": [
+      { "author": "Lauren S.", "rating": 5, "comment": "The character of the old wood is incredible. Floats perfectly on the wall.", "date": "2026-07-04" },
+      { "author": "Harry B.", "rating": 4, "comment": "Beautiful shelf. Installation was straightforward with the included hardware.", "date": "2026-06-02" }
+    ],
+    "stock": 3,
+    "badges": ["eco", "local"],
+    "featured": false,
+    "trending": false,
+    "bestSeller": false,
+    "tags": ["wall shelf", "reclaimed oak", "floating", "barn wood", "storage"],
+    "relatedProductIds": ["p19", "p20", "p26"]
+  },
+  {
+    "id": "p26",
+    "slug": "stoneware-incense-holder",
+    "name": "Stoneware Incense Holder",
+    "price": 34,
+    "currency": "USD",
+    "category": "home-decor",
+    "material": "ceramic",
+    "description": "A small hand-built stoneware holder for stick incense, with a catch basin for ash and a matte clay glaze.",
+    "story": "I designed this holder for the quiet ritual of burning incense at the end of the day. It's hand-built from a single slab of stoneware, with a small hole for the stick and a wide basin to catch the ash. The matte clay glaze is the colour of dry earth, and the base is signed with my maker's mark. It's one of those small objects that makes a daily practice feel more intentional.",
+    "images": [
+      "https://images.pexels.com/photos/16124848/pexels-photo-16124848.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.6,
+    "reviewCount": 6,
+    "reviews": [
+      { "author": "Maya R.", "rating": 5, "comment": "Simple and beautiful. The ash basin is a great design detail.", "date": "2026-07-13" },
+      { "author": "Luke F.", "rating": 4, "comment": "Nice little holder. Feels solid and well-made.", "date": "2026-06-06" }
+    ],
+    "stock": 14,
+    "badges": ["trending"],
+    "featured": false,
+    "trending": true,
+    "bestSeller": false,
+    "tags": ["incense holder", "stoneware", "hand-built", "ritual", "matte glaze"],
+    "relatedProductIds": ["p19", "p25", "p23"]
+  },
+  {
+    "id": "p27",
+    "slug": "hand-pressed-copper-vase",
+    "name": "Hand-Pressed Copper Vase",
+    "price": 88,
+    "currency": "USD",
+    "category": "accessories",
+    "material": "metal",
+    "description": "A slim copper vase raised by hand from a single sheet, with a planished surface that catches light like water.",
+    "story": "This vase is raised — not cast — from a flat sheet of copper, using a hammer and a wooden stake to gently push the metal into a cylindrical form over many passes. The surface is planished, meaning I go over it with a slightly rounded hammer to create a texture of overlapping marks that catch and scatter light. Copper will oxidize over time, deepening from bright salmon to warm bronze. You can polish it or let it live.",
+    "images": [
+      "https://images.pexels.com/photos/37035527/pexels-photo-37035527.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.7,
+    "reviewCount": 5,
+    "reviews": [
+      { "author": "Fiona M.", "rating": 5, "comment": "The planished surface is magical in candlelight. So well-made.", "date": "2026-07-17" },
+      { "author": "Alex T.", "rating": 4, "comment": "Beautiful vase. The copper is already developing a warm patina.", "date": "2026-06-21" }
+    ],
+    "stock": 4,
+    "badges": ["local"],
+    "featured": false,
+    "trending": false,
+    "bestSeller": false,
+    "tags": ["vase", "copper", "hand-raised", "planished", "metalwork"],
+    "relatedProductIds": ["p21", "p20", "p01"]
+  },
+  {
+    "id": "p28",
+    "slug": "linen-apron-clay",
+    "name": "Linen Apron — Clay",
+    "price": 42,
+    "currency": "USD",
+    "category": "accessories",
+    "material": "fabric",
+    "description": "A simple linen apron in a clay-dyed tone, with a single pocket and adjustable cross-back straps.",
+    "story": "I made this apron because I couldn't find one I liked. It's sewn from the same clay-dyed linen as the throw, with cross-back straps that distribute weight evenly so there's no neck strain. There's one pocket, large enough for a phone or a pair of scissors. The linen softens with washing and will eventually develop the soft drape of a well-worn favourite. It's the apron I wear every day in the studio.",
+    "images": [
+      "https://images.pexels.com/photos/6123227/pexels-photo-6123227.jpeg?auto=compress&cs=tinysrgb&h=900"
+    ],
+    "rating": 4.8,
+    "reviewCount": 8,
+    "reviews": [
+      { "author": "Sophie L.", "rating": 5, "comment": "The cross-back straps are so comfortable. I forget I'm wearing it.", "date": "2026-07-10" },
+      { "author": "Rob M.", "rating": 4, "comment": "Great apron. The linen is already softening nicely after a few washes.", "date": "2026-06-04" }
+    ],
+    "stock": 12,
+    "badges": ["eco", "local"],
+    "featured": false,
+    "trending": false,
+    "bestSeller": false,
+    "tags": ["apron", "linen", "clay-dyed", "cross-back", "studio"],
+    "relatedProductIds": ["p11", "p14", "p22"]
+  }
+]

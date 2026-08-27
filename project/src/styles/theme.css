@@ -1,0 +1,52 @@
+/* ============================================
+   Terra & Thread — Design System CSS Variables
+   Light mode is the default; dark mode is applied
+   via the `.dark` class on the html element.
+   Values are RGB channels so Tailwind alpha works.
+   ============================================ */
+
+:root {
+  /* Light mode — warm, earthy artisan studio */
+  --bg-primary: 251 247 240;      /* #FBF7F0 */
+  --bg-secondary: 239 230 214;    /* #EFE6D6 */
+  --bg-surface: 255 255 255;      /* #FFFFFF */
+  --bg-placeholder: 232 223 203;  /* #E8DFCB */
+
+  --ink-primary: 61 49 32;        /* #3D3120 */
+  --ink-secondary: 107 91 71;     /* #6B5B47 */
+
+  --accent: 124 139 94;           /* #7C8B5E */
+
+  --border-color: 228 220 203;    /* #E4DCCB */
+  --border-soft: 237 230 214;     /* close to bg-secondary, for subtle dividers */
+
+  --badge-eco: 228 234 216;       /* #E4EAD8 */
+  --badge-eco-text: 78 92 52;     /* #4E5C34 */
+  --badge-origin: 240 233 218;    /* #F0E9DA */
+  --badge-origin-text: 107 91 71; /* #6B5B47 */
+
+  --star: 201 154 59;             /* #C99A3B */
+}
+
+.dark {
+  /* Dark mode — the same artisan studio at night */
+  --bg-primary: 38 32 28;         /* deep warm brown */
+  --bg-secondary: 48 41 35;       /* slightly lighter warm brown */
+  --bg-surface: 54 46 39;         /* muted earthy surface */
+  --bg-placeholder: 60 50 42;     /* warm dark placeholder */
+
+  --ink-primary: 240 233 218;     /* warm beige / off-white */
+  --ink-secondary: 196 182 162;   /* muted warm tan text */
+
+  --accent: 158 173 122;          /* muted olive (lighter for contrast on dark) */
+
+  --border-color: 87 76 64;       /* soft tan borders */
+  --border-soft: 67 57 49;
+
+  --badge-eco: 78 92 52;          /* darker olive badge */
+  --badge-eco-text: 228 234 216;
+  --badge-origin: 87 76 64;
+  --badge-origin-text: 196 182 162;
+
+  --star: 212 175 95;             /* slightly brighter gold for dark mode */
+}

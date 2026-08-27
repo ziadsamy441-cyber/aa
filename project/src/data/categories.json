@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cat-ceramics",
+    "name": "Ceramics",
+    "slug": "ceramics",
+    "description": "Hand-thrown stoneware and porcelain vessels, fired in small batches.",
+    "image": "https://images.pexels.com/photos/29286721/pexels-photo-29286721.jpeg?auto=compress&cs=tinysrgb&h=400"
+  },
+  {
+    "id": "cat-wood",
+    "name": "Wood",
+    "slug": "wood",
+    "description": "Carved and turned pieces from reclaimed and sustainably sourced timber.",
+    "image": "https://images.pexels.com/photos/10707389/pexels-photo-10707389.jpeg?auto=compress&cs=tinysrgb&h=400"
+  },
+  {
+    "id": "cat-textile",
+    "name": "Textile",
+    "slug": "textile",
+    "description": "Naturally dyed linens, woven throws, and hand-stitched cushions.",
+    "image": "https://images.pexels.com/photos/6123227/pexels-photo-6123227.jpeg?auto=compress&cs=tinysrgb&h=400"
+  },
+  {
+    "id": "cat-candles",
+    "name": "Candles",
+    "slug": "candles",
+    "description": "Small-batch soy and beeswax candles with essential-oil blends.",
+    "image": "https://images.pexels.com/photos/34806970/pexels-photo-34806970.jpeg?auto=compress&cs=tinysrgb&h=400"
+  },
+  {
+    "id": "cat-home-decor",
+    "name": "Home Decor",
+    "slug": "home-decor",
+    "description": "Sculptural and functional pieces that bring warmth to every room.",
+    "image": "https://images.pexels.com/photos/7643946/pexels-photo-7643946.jpeg?auto=compress&cs=tinysrgb&h=400"
+  },
+  {
+    "id": "cat-accessories",
+    "name": "Accessories",
+    "slug": "accessories",
+    "description": "Curated finishing touches for the lived-in home.",
+    "image": "https://images.pexels.com/photos/32221410/pexels-photo-32221410.jpeg?auto=compress&cs=tinysrgb&h=400"
+  }
+]
